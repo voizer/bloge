@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introducing ENSAXP
 ---
 
 Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture.
