@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               ENSAXP
-tagline:             'Paris Val de Seine'
+tagline:             'Paris'
 description:         'Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture.
 url:                 https://voizer.github.io/ensaxp
 baseurl:             '/ensaxp'
@@ -15,7 +15,7 @@ paginate:            5
 # About/contact
 author:
   name:              ENSAXP
-  url:               https://ensaxp.github.io/
+  url:               https://google/
 
 # Custom vars
 version:             1.0.0
