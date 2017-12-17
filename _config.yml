@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               ENSAXP
 tagline:             'Paris Val de Seine'
-description:         'Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture. <a href="https://annuel2.framapad.org/p/iFGWlmLMbf">ENSAXP</a>
+description:         'Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture.
 url:                 https://voizer.github.io/ensaxp
 baseurl:             '/ensaxp'
 paginate:            5
