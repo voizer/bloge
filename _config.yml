@@ -6,17 +6,16 @@ permalink:           pretty
 
 # Setup
 title:               ENSAXP
-tagline:             'Paris'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'Paris Val de Seine'
+description:         'Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture. <a href="https://annuel2.framapad.org/p/iFGWlmLMbf">ENSAXP</a>
 url:                 https://voizer.github.io/ensaxp
 baseurl:             '/ensaxp'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              ENSAXP
+  url:               https://ensaxp.github.io/
 
 # Custom vars
 version:             1.0.0
